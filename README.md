@@ -10,7 +10,7 @@
 
 **screenshot**
 
-<img src="Screenshot.png" width="1366px" height="768px">
+<img src="Screenshot.png" width="500px" height="500px">
 
 ```c++
 
